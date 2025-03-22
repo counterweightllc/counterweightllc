@@ -1,4 +1,4 @@
-## Hi there 👋
+## Counterweight LLC work portfolio -- UNDER CONSTRUCTION (March 2025)
 
 <!--
 **counterweightllc/counterweightllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
